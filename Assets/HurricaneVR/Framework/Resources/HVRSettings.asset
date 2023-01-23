@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b3a39c3d29bcbf45b97a504fc1dedbe, type: 3}
+  m_Name: HVRSettings
+  m_EditorClassIdentifier: 
+  LocalEditorRootDirectory: Assets\HurricaneVR\Framework\Editor\
+  LocalRootDirectory: Assets\HurricaneVR\Framework\
+  LocalResourcesDirectory: Assets\HurricaneVR\Framework\Resources\
+  LocalReferencePoseDirectory: Assets\HurricaneVR\Framework\Resources\ReferencePoses\
+  LocalRuntimePosesDirectory: Assets\HurricaneVR\Framework\Resources\RuntimePoses\
+  LocalPosesDirectory: 
+  AutoApplyGrabbableLayer: 1
+  LeftHand: {fileID: 7050223169496405804, guid: bb680487e200bb1458405debc0da3606, type: 3}
+  RightHand: {fileID: 1575721949135083507, guid: d9420cd6b732c874e805d2daa66f8409, type: 3}
+  InverseKinematics: 0
+  FullBody: {fileID: 0}
+  HandPoseHandleOffset: {x: 0, y: 0.08, z: 0}
+  OpenHandPose: {fileID: 11400000, guid: 3195f5271090d494f8a7cc10c2e5c898, type: 2}
+  PoserShowsOneFinger: 0
+  ThumbCurlType: 0
+  IndexCurlType: 0
+  MiddleCurlType: 0
+  RingCurlType: 0
+  PinkyCurlType: 0
+  ThumbStart: 0.75
+  IndexStart: 1
+  MiddleStart: 0
+  RingStart: 0
+  PinkyStart: 0
+  UseAttachedRigidBody: 0
+  ComponentInParentFallback: 0
+  LineGrabTriggerLoose: 0
+  DefaultJointSettings: {fileID: 11400000, guid: d420bd8890e2c264eb9ec97c4963f6ce, type: 2}
+  LineGrabSettings: {fileID: 11400000, guid: 203d545f2b6cc724aa3a0d6e4fafd082, type: 2}
+  VerboseGrabbableEvents: 0
+  VerboseHandGrabberEvents: 0
+  ChosePosesDirectory: Choose Pose Directory
+  ChoseReferencePosesDirectory: Choose Reference Poses Directory
+  ChoseRunTimePosesDirectory: Choose RunTime Poses Directory
+  ReloadGlobals: Reload Globals

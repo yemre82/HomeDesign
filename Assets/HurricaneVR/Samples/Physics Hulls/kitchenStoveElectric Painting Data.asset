@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0de965f2e710c1c489ead8e62cd25da0, type: 3}
+  m_Name: kitchenStoveElectric Painting Data
+  m_EditorClassIdentifier: 
+  hullData: {fileID: 11400000, guid: 4ff682f08832ef349bf5f4ed49298cbd, type: 2}
+  sourceMesh: {fileID: -6217641916932018668, guid: b7855598aff730742b3f862e4bfeec69,
+    type: 3}
+  activeHull: 1
+  faceThickness: 0.1
+  hulls:
+  - name: Hull 1
+    isVisible: 1
+    type: 0
+    colour: {r: 0, g: 1, b: 1, a: 0.3}
+    material: {fileID: 0}
+    enableInflation: 0
+    inflationAmount: 0.01
+    isTrigger: 0
+    isChildCollider: 0
+    selectedFaces: 0f0000000e000000000000000100000004000000
+    collisionMesh: {fileID: 0}
+    faceCollisionMesh: {fileID: 0}
+    collisionBox:
+      m_Center: {x: 0.48375002, y: 0.97874993, z: 0.97874993}
+      m_Extent: {x: 0.48375002, y: 0.033749998, z: 0.033749998}
+    hasColliderError: 0
+    numColliderFaces: 0
+  - name: Hull 2
+    isVisible: 1
+    type: 0
+    colour: {r: 1, g: 0, b: 1, a: 0.3}
+    material: {fileID: 0}
+    enableInflation: 0
+    inflationAmount: 0.01
+    isTrigger: 0
+    isChildCollider: 0
+    selectedFaces: e80000005a0000005b0000005c0000005d000000d0000000d10000002d010000e7000000e5000000e3000000e0000000df000000dd000000dc000000350000000b0000000a0000003200000033000000580000005700000020010000210100003000000024000000250000002f0000004600000063000000470000003f0000003d0000006700000069000000
+    collisionMesh: {fileID: 0}
+    faceCollisionMesh: {fileID: 0}
+    collisionBox:
+      m_Center: {x: 0.48375002, y: 0.47812498, z: 0.50624996}
+      m_Extent: {x: 0.48375002, y: 0.47812498, z: 0.50624996}
+    hasColliderError: 0
+    numColliderFaces: 0

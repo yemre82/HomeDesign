@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: f46e39cb408daac49b459cf17385e39c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: HallWardrobe_Door_L
+    100004: HallWardrobe_Door_L.001
+    100006: HallWardrobe_Door_R
+    100008: HallWardrobe_Door_R.001
+    100010: HallWardrobe_LOD_0
+    100012: HallWardrobe_LOD_1
+    400000: //RootNode
+    400002: HallWardrobe_Door_L
+    400004: HallWardrobe_Door_L.001
+    400006: HallWardrobe_Door_R
+    400008: HallWardrobe_Door_R.001
+    400010: HallWardrobe_LOD_0
+    400012: HallWardrobe_LOD_1
+    2100000: Bedroom_Mat
+    2100002: Mirror_Mat
+    2100004: Wood_Material_2
+    2100006: Wood_Material_1
+    2100008: Color_Mat
+    2300000: HallWardrobe_Door_L
+    2300002: HallWardrobe_Door_L.001
+    2300004: HallWardrobe_Door_R
+    2300006: HallWardrobe_Door_R.001
+    2300008: HallWardrobe_LOD_0
+    2300010: HallWardrobe_LOD_1
+    3300000: HallWardrobe_Door_L
+    3300002: HallWardrobe_Door_L.001
+    3300004: HallWardrobe_Door_R
+    3300006: HallWardrobe_Door_R.001
+    3300008: HallWardrobe_LOD_0
+    3300010: HallWardrobe_LOD_1
+    4300000: HallWardrobe_LOD_0
+    4300002: HallWardrobe_Door_L
+    4300004: HallWardrobe_Door_R
+    4300006: HallWardrobe_LOD_1
+    4300008: HallWardrobe_Door_L.001
+    4300010: HallWardrobe_Door_R.001
+    6400000: HallWardrobe_Door_L
+    6400002: HallWardrobe_Door_L.001
+    6400004: HallWardrobe_Door_R
+    6400006: HallWardrobe_Door_R.001
+    6400008: HallWardrobe_LOD_0
+    6400010: HallWardrobe_LOD_1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedroom_Mat
+    second: {fileID: 2100000, guid: 2baa4fae084f68747b404dbde6c7065b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_Mat
+    second: {fileID: 2100000, guid: 160746638cc893d448786298a322c16f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mirror_Mat
+    second: {fileID: 2100000, guid: 590ec9abc1d29f04b98d1ae9248bc944, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_Material_1
+    second: {fileID: 2100000, guid: 3d55e1ecfb20a614fbf92423a7b92953, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_Material_2
+    second: {fileID: 2100000, guid: ee72ec26279a291489368caac1fafdb9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

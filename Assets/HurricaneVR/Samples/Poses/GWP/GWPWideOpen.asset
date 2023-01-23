@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc30735a6f974fda88a33f70e2b17a3b, type: 3}
+  m_Name: GWPWideOpen
+  m_EditorClassIdentifier: 
+  SnappedLeft: 1
+  LeftHand:
+    Position: {x: -0.0513, y: -0.029, z: -0.088}
+    Rotation: {x: 0, y: 0, z: 0.68237245, w: 0.7310047}
+    Thumb:
+      Bones:
+      - Position: {x: -0.03940242, y: -0.022288203, z: 0.021625128}
+        Rotation: {x: 0.4292599, y: 0.499729, z: -0.36415595, w: 0.65832925}
+      - Position: {x: -0.024209177, y: 0, z: -9.947598e-17}
+        Rotation: {x: 3.735384e-11, y: -0.038470127, z: 0.047476217, w: 0.9981313}
+      - Position: {x: -0.028181138, y: 0, z: -1.9895196e-16}
+        Rotation: {x: -4.1809965e-11, y: -0.038701944, z: -0.08788361, w: 0.9953787}
+    Index:
+      Bones:
+      - Position: {x: -0.031499993, y: -0.000000052875144, z: 0.0000000016330334}
+        Rotation: {x: 0, y: -0, z: -0, w: 1}
+      - Position: {x: -0.022886362, y: 0, z: 0}
+        Rotation: {x: 0, y: -0, z: -0, w: 1}
+      - Position: {x: -0.020245383, y: -1.9895196e-16, z: 4.973799e-17}
+        Rotation: {x: 0, y: -0, z: -0, w: 1}
+    Middle:
+      Bones:
+      - Position: {x: -0.03150001, y: -0.000000052875144, z: 4.3168833e-11}
+        Rotation: {x: 0, y: -0, z: -0, w: 1}
+      - Position: {x: -0.029774358, y: 0, z: 3.8857804e-19}
+        Rotation: {x: 0, y: -0, z: -0, w: 1}
+      - Position: {x: -0.022731772, y: 0, z: 4.9932278e-17}
+        Rotation: {x: 0, y: -0, z: -0, w: 1}
+    Ring:
+      Bones:
+      - Position: {x: -0.031499993, y: -0.000000052875144, z: -6.805369e-10}
+        Rotation: {x: 0, y: -0, z: -0, w: 1}
+      - Position: {x: -0.019893855, y: 0, z: 0}
+        Rotation: {x: 0, y: -0, z: -0, w: 1}
+      - Position: {x: -0.021366628, y: 0, z: 4.973799e-17}
+        Rotation: {x: 0, y: -0, z: -0, w: 1}
+    Pinky:
+      Bones: []
+  RightHand:
+    Position: {x: 0.0513, y: -0.029, z: -0.088}
+    Rotation: {x: -0, y: 0, z: -0.6823725, w: 0.73100466}
+    Thumb:
+      Bones:
+      - Position: {x: 0.03940242, y: 0.022288203, z: -0.021625128}
+        Rotation: {x: -0.6583291, y: 0.364156, z: 0.49972904, w: 0.42925987}
+      - Position: {x: 0.024209177, y: 0, z: -9.947598e-17}
+        Rotation: {x: -6.9849193e-10, y: -0.03847011, z: 0.047476217, w: -0.9981313}
+      - Position: {x: 0.028181138, y: 0, z: -1.9895196e-16}
+        Rotation: {x: 0.00000011641532, y: -0.038702205, z: -0.087883584, w: -0.9953787}
+    Index:
+      Bones:
+      - Position: {x: 0.031499993, y: -0.000000052875144, z: 0.0000000016330334}
+        Rotation: {x: 0, y: 0, z: 0, w: 1}
+      - Position: {x: 0.022886362, y: 0, z: 0}
+        Rotation: {x: 0, y: 0, z: 0, w: 1}
+      - Position: {x: 0.020245383, y: -1.9895196e-16, z: 4.973799e-17}
+        Rotation: {x: 0, y: 0, z: 0, w: 1}
+    Middle:
+      Bones:
+      - Position: {x: 0.03150001, y: -0.000000052875144, z: 4.3168833e-11}
+        Rotation: {x: 0, y: 0, z: 0, w: 1}
+      - Position: {x: 0.029774358, y: 0, z: 3.8857804e-19}
+        Rotation: {x: 0, y: 0, z: 0, w: 1}
+      - Position: {x: 0.022731772, y: 0, z: 4.9932278e-17}
+        Rotation: {x: 0, y: 0, z: 0, w: 1}
+    Ring:
+      Bones:
+      - Position: {x: 0.031499993, y: -0.000000052875144, z: -6.805369e-10}
+        Rotation: {x: 0, y: 0, z: 0, w: 1}
+      - Position: {x: 0.019893855, y: 0, z: 0}
+        Rotation: {x: 0, y: 0, z: 0, w: 1}
+      - Position: {x: 0.021366628, y: 0, z: 4.973799e-17}
+        Rotation: {x: 0, y: 0, z: 0, w: 1}
+    Pinky:
+      Bones: []

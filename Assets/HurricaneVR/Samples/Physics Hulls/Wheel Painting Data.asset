@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0de965f2e710c1c489ead8e62cd25da0, type: 3}
+  m_Name: Wheel Painting Data
+  m_EditorClassIdentifier: 
+  hullData: {fileID: 11400000, guid: 079d4c5ef9e32c8449dd7430266aa8ef, type: 2}
+  sourceMesh: {fileID: -2309305249758762421, guid: df4080636ae897e4ca6341bf6b3bfab0,
+    type: 3}
+  activeHull: 5
+  faceThickness: 0.1
+  hulls:
+  - name: Hull 1
+    isVisible: 1
+    type: 1
+    colour: {r: 0, g: 1, b: 1, a: 0.3}
+    material: {fileID: 0}
+    enableInflation: 0
+    inflationAmount: 0.01
+    isTrigger: 0
+    isChildCollider: 0
+    selectedFaces: bf000000bd000000bb000000b9000000ad000000ae000000af0000009f0000009e000000a1000000a0000000a3000000a2000000a5000000a4000000a7000000910000009000000093000000920000009500000094000000970000009600000099000000
+    collisionMesh: {fileID: 4216510080214673944, guid: 079d4c5ef9e32c8449dd7430266aa8ef,
+      type: 2}
+    faceCollisionMesh: {fileID: 0}
+    collisionBox:
+      m_Center: {x: 0, y: 0, z: 0}
+      m_Extent: {x: 0, y: 0, z: 0}
+    hasColliderError: 0
+    numColliderFaces: 45
+  - name: Hull 2
+    isVisible: 1
+    type: 1
+    colour: {r: 1, g: 0, b: 1, a: 0.3}
+    material: {fileID: 0}
+    enableInflation: 0
+    inflationAmount: 0.01
+    isTrigger: 0
+    isChildCollider: 0
+    selectedFaces: 870000008600000089000000880000008b0000008a0000006f0000006e0000007100000070000000730000007200000075000000810000007e0000007f0000007c0000007d0000007a0000007b00000066000000670000006400000065000000620000006300000060000000
+    collisionMesh: {fileID: 7033127125816567639, guid: 079d4c5ef9e32c8449dd7430266aa8ef,
+      type: 2}
+    faceCollisionMesh: {fileID: 0}
+    collisionBox:
+      m_Center: {x: 0, y: 0, z: 0}
+      m_Extent: {x: 0, y: 0, z: 0}
+    hasColliderError: 0
+    numColliderFaces: 42
+  - name: Hull 3
+    isVisible: 1
+    type: 1
+    colour: {r: 1, g: 1, b: 0, a: 0.3}
+    material: {fileID: 0}
+    enableInflation: 0
+    inflationAmount: 0.01
+    isTrigger: 0
+    isChildCollider: 0
+    selectedFaces: 570000005600000059000000580000005b0000005a0000005d0000005c0000005f0000005e0000004e0000004f0000004c0000004d0000004a0000004b0000004800000049000000380000003900000036000000370000003400000035000000320000003300000030000000310000003f0000003e000000410000004000000043000000420000004500000044000000
+    collisionMesh: {fileID: -8605246841223106923, guid: 079d4c5ef9e32c8449dd7430266aa8ef,
+      type: 2}
+    faceCollisionMesh: {fileID: 0}
+    collisionBox:
+      m_Center: {x: 0, y: 0, z: 0}
+      m_Extent: {x: 0, y: 0, z: 0}
+    hasColliderError: 0
+    numColliderFaces: 52
+  - name: Hull 4
+    isVisible: 1
+    type: 1
+    colour: {r: 1, g: 0, b: 0, a: 0.3}
+    material: {fileID: 0}
+    enableInflation: 0
+    inflationAmount: 0.01
+    isTrigger: 0
+    isChildCollider: 0
+    selectedFaces: 2b0000002a0000002d0000002c0000001300000012000000150000001400000010000000110000000e0000000f0000000c0000000d0000002500000024000000270000002600000029000000280000000a0000000b0000000900000006000000070000000500000002000000030000001a0000001d0000001c0000001f0000001e000000210000002000000023000000220000001b0000001800000008000000
+    collisionMesh: {fileID: 500038042593924343, guid: 079d4c5ef9e32c8449dd7430266aa8ef,
+      type: 2}
+    faceCollisionMesh: {fileID: 0}
+    collisionBox:
+      m_Center: {x: 0, y: 0, z: 0}
+      m_Extent: {x: 0, y: 0, z: 0}
+    hasColliderError: 0
+    numColliderFaces: 53
+  - name: Hull 5
+    isVisible: 1
+    type: 1
+    colour: {r: 0, g: 1, b: 0, a: 0.3}
+    material: {fileID: 0}
+    enableInflation: 0
+    inflationAmount: 0.01
+    isTrigger: 0
+    isChildCollider: 0
+    selectedFaces: fa000000fb000000f8000000f9000000f6000000f7000000f4000000f5000000f2000000120100001301000010010000110100000e0100000f0100000c0100000d0100000a0100000b010000fc000000ff000000fe0000000101000000010000030100000201000005010000040100001501000014010000170100001601000019010000180100001b0100001a010000
+    collisionMesh: {fileID: -3738166447101331208, guid: 079d4c5ef9e32c8449dd7430266aa8ef,
+      type: 2}
+    faceCollisionMesh: {fileID: 0}
+    collisionBox:
+      m_Center: {x: 0, y: 0, z: 0}
+      m_Extent: {x: 0, y: 0, z: 0}
+    hasColliderError: 0
+    numColliderFaces: 46
+  - name: Hull 6
+    isVisible: 1
+    type: 1
+    colour: {r: 0, g: 0, b: 1, a: 0.3}
+    material: {fileID: 0}
+    enableInflation: 0
+    inflationAmount: 0.01
+    isTrigger: 0
+    isChildCollider: 0
+    selectedFaces: e2000000e3000000e0000000e1000000de000000df000000dc000000dd000000da000000db000000e6000000e9000000e8000000eb000000ea000000ed000000ec000000ef000000ee000000ce000000d1000000d0000000d3000000d2000000d5000000d4000000d7000000d6000000cf000000c9000000c6000000c7000000c4000000c5000000c2000000c3000000c0000000c1000000d8000000
+    collisionMesh: {fileID: 5849605514736461231, guid: 079d4c5ef9e32c8449dd7430266aa8ef,
+      type: 2}
+    faceCollisionMesh: {fileID: 0}
+    collisionBox:
+      m_Center: {x: 0, y: 0, z: 0}
+      m_Extent: {x: 0, y: 0, z: 0}
+    hasColliderError: 0
+    numColliderFaces: 52

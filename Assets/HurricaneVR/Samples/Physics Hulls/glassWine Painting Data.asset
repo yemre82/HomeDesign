@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0de965f2e710c1c489ead8e62cd25da0, type: 3}
+  m_Name: glassWine Painting Data
+  m_EditorClassIdentifier: 
+  hullData: {fileID: 11400000, guid: 6cc6a7d9d6efe314482227edd6b3347e, type: 2}
+  sourceMesh: {fileID: 7327363928247545277, guid: 817f4ae8e2fff4b4baf7449e473be9b9,
+    type: 3}
+  activeHull: 2
+  faceThickness: 0.1
+  hulls:
+  - name: Hull 1
+    isVisible: 1
+    type: 1
+    colour: {r: 0, g: 1, b: 1, a: 0.3}
+    material: {fileID: 0}
+    enableInflation: 0
+    inflationAmount: 0.01
+    isTrigger: 0
+    isChildCollider: 0
+    selectedFaces: 100000001100000014000000150000001b0000001a00000019000000180000000900000008000000230000006d00000076000000560000005700000066000000670000005200000037000000360000006900000068000000650000006b0000004300000063000000620000005a0000005b0000002200000059000000580000005e0000006000000061000000640000005f0000005c0000005d000000
+    collisionMesh: {fileID: 684025543960704735, guid: 6cc6a7d9d6efe314482227edd6b3347e,
+      type: 2}
+    faceCollisionMesh: {fileID: 0}
+    collisionBox:
+      m_Center: {x: 0, y: 0, z: 0}
+      m_Extent: {x: 0, y: 0, z: 0}
+    hasColliderError: 0
+    numColliderFaces: 45
+  - name: Hull 2
+    isVisible: 1
+    type: 0
+    colour: {r: 1, g: 0, b: 1, a: 0.3}
+    material: {fileID: 0}
+    enableInflation: 0
+    inflationAmount: 0.01
+    isTrigger: 0
+    isChildCollider: 0
+    selectedFaces: 4000000041000000390000003b00000047000000460000004500000044000000
+    collisionMesh: {fileID: 0}
+    faceCollisionMesh: {fileID: 0}
+    collisionBox:
+      m_Center: {x: 0, y: 0.075805314, z: 0}
+      m_Extent: {x: 0.005835415, y: 0.050809417, z: 0.00506764}
+    hasColliderError: 0
+    numColliderFaces: 0
+  - name: Hull 3
+    isVisible: 1
+    type: 1
+    colour: {r: 1, g: 1, b: 0, a: 0.3}
+    material: {fileID: 0}
+    enableInflation: 0
+    inflationAmount: 0.01
+    isTrigger: 0
+    isChildCollider: 0
+    selectedFaces: 3f00000048000000490000005000000051000000300000003e00000017000000160000000f0000000e000000540000005500000013000000120000001e0000001f0000001c0000001d00000020000000210000003200000031000000330000000d0000000c0000000b0000000a000000
+    collisionMesh: {fileID: -1154697945413167824, guid: 6cc6a7d9d6efe314482227edd6b3347e,
+      type: 2}
+    faceCollisionMesh: {fileID: 0}
+    collisionBox:
+      m_Center: {x: 0, y: 0.012497949, z: 0}
+      m_Extent: {x: 0.04534116, y: 0.012497949, z: 0.039375573}
+    hasColliderError: 0
+    numColliderFaces: 20

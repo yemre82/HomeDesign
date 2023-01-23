@@ -1,0 +1,138 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8009339150292551530
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6007802525096290587, guid: 5c55133cc65f8be4faa5e623cdb366dc,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6007802525096290589, guid: 5c55133cc65f8be4faa5e623cdb366dc,
+        type: 3}
+      propertyPath: m_textInfo.characterCount
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 6007802525096290589, guid: 5c55133cc65f8be4faa5e623cdb366dc,
+        type: 3}
+      propertyPath: m_textInfo.spaceCount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6007802525096290589, guid: 5c55133cc65f8be4faa5e623cdb366dc,
+        type: 3}
+      propertyPath: m_textInfo.wordCount
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6007802525096290589, guid: 5c55133cc65f8be4faa5e623cdb366dc,
+        type: 3}
+      propertyPath: m_textInfo.lineCount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6007802525096290589, guid: 5c55133cc65f8be4faa5e623cdb366dc,
+        type: 3}
+      propertyPath: m_textInfo.pageCount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6007802525096290589, guid: 5c55133cc65f8be4faa5e623cdb366dc,
+        type: 3}
+      propertyPath: m_text
+      value: 'Snap+Clamp
+
+'
+      objectReference: {fileID: 0}
+    - target: {fileID: 6007802525096290589, guid: 5c55133cc65f8be4faa5e623cdb366dc,
+        type: 3}
+      propertyPath: m_firstOverflowCharacterIndex
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6007802525549917552, guid: 5c55133cc65f8be4faa5e623cdb366dc,
+        type: 3}
+      propertyPath: Steps
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6007802525549917552, guid: 5c55133cc65f8be4faa5e623cdb366dc,
+        type: 3}
+      propertyPath: ClampMaxAngle
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6007802525549917552, guid: 5c55133cc65f8be4faa5e623cdb366dc,
+        type: 3}
+      propertyPath: MaximumAngle
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 6007802525549917552, guid: 5c55133cc65f8be4faa5e623cdb366dc,
+        type: 3}
+      propertyPath: AudioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 7d853d9961e50434097fe1047f38c444, type: 3}
+    - target: {fileID: 6007802525549917552, guid: 5c55133cc65f8be4faa5e623cdb366dc,
+        type: 3}
+      propertyPath: StepSize
+      value: 45
+      objectReference: {fileID: 0}
+    - target: {fileID: 6118907474423900056, guid: 5c55133cc65f8be4faa5e623cdb366dc,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.68
+      objectReference: {fileID: 0}
+    - target: {fileID: 6118907474423900056, guid: 5c55133cc65f8be4faa5e623cdb366dc,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.00027370453
+      objectReference: {fileID: 0}
+    - target: {fileID: 6118907474423900056, guid: 5c55133cc65f8be4faa5e623cdb366dc,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.29508924
+      objectReference: {fileID: 0}
+    - target: {fileID: 6118907474423900056, guid: 5c55133cc65f8be4faa5e623cdb366dc,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.70710707
+      objectReference: {fileID: 0}
+    - target: {fileID: 6118907474423900056, guid: 5c55133cc65f8be4faa5e623cdb366dc,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6118907474423900056, guid: 5c55133cc65f8be4faa5e623cdb366dc,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6118907474423900056, guid: 5c55133cc65f8be4faa5e623cdb366dc,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071066
+      objectReference: {fileID: 0}
+    - target: {fileID: 6118907474423900056, guid: 5c55133cc65f8be4faa5e623cdb366dc,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6118907474423900056, guid: 5c55133cc65f8be4faa5e623cdb366dc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90.00001
+      objectReference: {fileID: 0}
+    - target: {fileID: 6118907474423900056, guid: 5c55133cc65f8be4faa5e623cdb366dc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6118907474423900056, guid: 5c55133cc65f8be4faa5e623cdb366dc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6890904633287687458, guid: 5c55133cc65f8be4faa5e623cdb366dc,
+        type: 3}
+      propertyPath: m_Name
+      value: DialSnapClamp
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5c55133cc65f8be4faa5e623cdb366dc, type: 3}

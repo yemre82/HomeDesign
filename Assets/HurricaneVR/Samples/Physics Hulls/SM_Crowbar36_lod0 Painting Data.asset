@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0de965f2e710c1c489ead8e62cd25da0, type: 3}
+  m_Name: SM_Crowbar36_lod0 Painting Data
+  m_EditorClassIdentifier: 
+  hullData: {fileID: 11400000, guid: 3feee51f34b1c174c8e5589f7ea8c1be, type: 2}
+  sourceMesh: {fileID: -179360552959147702, guid: 6eb3fc2b3cc7b564eb629a13460ddaf2,
+    type: 3}
+  activeHull: 0
+  faceThickness: 0.1
+  hulls:
+  - name: Hull 2
+    isVisible: 1
+    type: 0
+    colour: {r: 1, g: 0, b: 1, a: 0.3}
+    material: {fileID: 0}
+    enableInflation: 0
+    inflationAmount: 0.01
+    isTrigger: 0
+    isChildCollider: 0
+    selectedFaces: 9400000093000000910000009000000067000000f20000008e0000008f00000064000000650000006600000092000000680000006a0000006b00000095000000ea000000eb000000690000006c0000009700000098000000cc000000960000006d000000470100001c0100001d0100001e0100001f0100004801000049010000f1000000ef000000ee0000004a0100004b0100004c0100002301000022010000210100004d010000e90000004e010000e60000004f0100002401000050010000d900000042010000
+    collisionMesh: {fileID: 0}
+    faceCollisionMesh: {fileID: 0}
+    collisionBox:
+      m_Center: {x: 0, y: 0.00055887224, z: 0.025570244}
+      m_Extent: {x: 0.014656633, y: 0.0109680295, z: 0.3730887}
+    hasColliderError: 0
+    numColliderFaces: 0

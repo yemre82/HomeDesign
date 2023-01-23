@@ -1,0 +1,177 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!43 &-2320571647389187861
+Mesh:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hull 1
+  serializedVersion: 10
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 300
+    topology: 0
+    baseVertex: 0
+    firstVertex: 0
+    vertexCount: 52
+    localAABB:
+      m_Center: {x: 0, y: 0.28663662, z: -0.00000004749745}
+      m_Extent: {x: 0.023802212, y: 0.2877322, z: 0.023802254}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes: 
+  m_RootBoneNameHash: 0
+  m_BonesAABB: []
+  m_VariableBoneCountWeights:
+    m_Data: 
+  m_MeshCompression: 0
+  m_IsReadable: 1
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexFormat: 0
+  m_IndexBuffer: 2e00060005001200040011000300050006000c000d000e000a000400030008000a000e0008000e000d0008000d002300080023000900160006002e0016002e0018001600180017002f00110004002f000400000030001200110030002b00310013001c001500190015001c00220023000d00220025002100260009002300260020000200070003000600070006000c0007000c000e0007000e000a0007000a0003000b00000004000b0004000a000b000a0008000b00080009000b00090026000b00260002000b00020000002a00150019002a00190017002a001700180001002f0000000100000002000100020020002c002b0030002c00300033002c0033000f00320012003000320030003100320031001800320018002e0032002e00050032000500030032000300040032000400120028001d001c0028001c00130028000f003300280033001d00240025002200240022000d0024000d000c0024000c0006002400060025001f0025002d001f002100250014002d0025002700200026002700260023002700230022002700220021002700210020001b0033001e001b001e0020001b00200021001b0021001f001b001f002d001b002d001c001b001c001d001b001d00330029002b002c0029002c000f0029000f002800290028001300290013001500290015002a0029002a001800290018003100290031002b00100011002f0010002f000100100001002000100020001e0010001e0033001000330030001000300011001a001c002d001a002d0014001a00140025001a00250006001a00060016001a00160017001a00170019001a0019001c00
+  m_VertexData:
+    serializedVersion: 3
+    m_VertexCount: 52
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    m_DataSize: 624
+    _typelessdata: fe3524bc7b65ee3cd8fcc23cfe35243c370e623dd6fcc23cfe35243c7b65ee3cd8fcc23cdbfcc2bc7865ee3c033624bcdbfcc2bc7a65ee3cf935243cdbfcc2bc360e623d083624bcfe3524bc7765ee3cdefcc2bc7607a2bc187a523c5d7408bca97b64bc91998fba7193c03b7193c0bb85998fbaa97b643c7607a2bc1a7a523c5974083c5b7408bc1c7a523c7507a23c5b7408bc167a523c7707a2bc7193c03bad998fbaa97b64bca97b64bca1998fba7193c0bb5b74083cd609133f4407a23c0036243cd536c93eb9fcc23c003624bcd536c93eb9fcc23cdbfcc2bc69dbbb3ec035243c7607a23cd609133fbf7408bc0036243c69dbbb3efbfcc2bc5b74083cd609133fa807a2bc003624bc9afe063f09fdc2bc003624bc52ac0d3f0bfdc2bcdbfcc2bc52ac0d3f613624bc0036243c52ac0d3f0bfdc2bc0036243c9afe063f09fdc2bcdbfcc23c9afe063fa435243cdbfcc23c52ac0d3f613624bcdbfcc23c52ac0d3f9f35243cdbfcc23c69dbbb3ec035243cdbfcc23c360e623d083624bcdbfcc23c7a65ee3cf935243cdbfcc23c7865ee3c033624bc7607a23c187a523c5d7408bca97b643ca1998fba7193c0bb5b74083c167a523c7707a2bcfe35243c7765ee3cdefcc2bc5b74083c1c7a523c7507a23c7607a23c1a7a523c5974083c7607a23cd609133ff773083c7607a2bcd609133fbf7408bc5b7408bcd609133fa807a2bc7607a2bcd609133ff773083c5b7408bcd609133f4407a23cdbfcc23cd536c93e453624bcdbfcc2bcd536c93e453624bcfe3524bc370e623dd6fcc23c003624bc52ac0d3fabfcc23cdbfcc2bc52ac0d3f9f35243cdbfcc2bc9afe063fa435243c0036243c52ac0d3fabfcc23c
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UV:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Normals:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UVInfo: 0
+  m_LocalAABB:
+    m_Center: {x: 0, y: 0.28663662, z: -0.00000004749745}
+    m_Extent: {x: 0.023802212, y: 0.2877322, z: 0.023802254}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh: 
+  m_BakedTriangleCollisionMesh: 
+  m_MeshMetrics[0]: 1
+  m_MeshMetrics[1]: 1
+  m_MeshOptimizationFlags: 1
+  m_StreamData:
+    offset: 0
+    size: 0
+    path: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74576fe588befbe4087dd6600108db92, type: 3}
+  m_Name: Battle hammer Hull Data
+  m_EditorClassIdentifier: 
